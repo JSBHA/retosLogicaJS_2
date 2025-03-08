@@ -5,7 +5,6 @@ function hasUniqueChars(str){
     return uniqueChar.size === str.length
 }
 
-
 console.log(hasUniqueChars("abcdef"));  // true
 console.log(hasUniqueChars("hello"));   // false
 console.log(hasUniqueChars("123456"));  // true
