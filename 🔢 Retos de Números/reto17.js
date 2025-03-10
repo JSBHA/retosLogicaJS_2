@@ -1,4 +1,4 @@
-//1️⃣7️⃣**Determinar si un número es un palíndromo**
+// 1️⃣7️⃣ **Determinar si un número es un palíndromo**
 
 function isPalindrome(nums) {
   let num = nums.toString().split("").reverse().join("");
