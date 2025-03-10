@@ -3,8 +3,8 @@
 function sumFirstNPrimes(n) {
   function isPrimes(num) {
     if (num < 2) return false;
-    for (let i = 2; i <= Math.sqrt(num); i++){
-        if(num % i === 0) return false;
+    for (let i = 2; i <= Math.sqrt(num); i++) {
+      if (num % i === 0) return false;
     }
     return true;
   }
@@ -12,11 +12,11 @@ function sumFirstNPrimes(n) {
   let Primes = [];
   let num = 2;
 
-  while(Primes.length < n ){
-    if (isPrimes(num)){
-        Primes.push(num);
+  while (Primes.length < n) {
+    if (isPrimes(num)) {
+      Primes.push(num);
     }
-    num ++
+    num++;
   }
   return Primes.reduce((sum, prime) => sum + prime, 0);
 }

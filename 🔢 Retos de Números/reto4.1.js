@@ -1,4 +1,4 @@
-// 4️⃣ Sumar los primeros n números primos Función auxiliar a diferencia de la función anidada esta se puede usar en otras partes del codigo 
+// 4️⃣ Sumar los primeros n números primos Función auxiliar a diferencia de la función anidada esta se puede usar en otras partes del codigo
 
 function isPrime(n) {
   if (n < 2) return false;
