@@ -1,8 +1,8 @@
-// 1️⃣5️⃣ **Encontrar el número más grande en un array**
+//1️⃣5️⃣ **Encontrar el número más grande en un array**
 
-function findMaxNumber(nums){
-    let maxNumber = Math.max(...nums)
-    return maxNumber
+function findMaxNumber(nums) {
+  let maxNumber = Math.max(...nums);
+  return maxNumber;
 }
 
 console.log(findMaxNumber([3, 7, 2, 9, 5])); // 9

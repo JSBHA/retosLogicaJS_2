@@ -1,4 +1,4 @@
-// 1️⃣5️⃣ **Encontrar el número más grande en un array**
+//1️⃣5️⃣ **Encontrar el número más grande en un array**
 
 function findMaxNumber(nums) {
   let maxNumber = nums[0];
