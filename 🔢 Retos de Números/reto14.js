@@ -1,4 +1,4 @@
-// 1️⃣4️⃣ **Determinar si un número es primo**
+//1️⃣4️⃣ **Determinar si un número es primo**
 
 function isPrime(n) {
   if (n < 2) return false;
