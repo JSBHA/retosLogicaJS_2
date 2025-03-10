@@ -1,4 +1,4 @@
-//1️⃣6️⃣ **Calcular la suma de los dígitos de un número**
+// 1️⃣6️⃣ **Calcular la suma de los dígitos de un número**
 
 function sumDigits(nums) {
   let sumNums = nums.toString().split("");
