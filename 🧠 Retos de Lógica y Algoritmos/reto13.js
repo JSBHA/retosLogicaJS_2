@@ -1,4 +1,4 @@
-// 1️⃣3️⃣ Simular el juego de "FizzBuzz"
+//1️⃣3️⃣ Simular el juego de "FizzBuzz"
 
 function fizzBuzz(n) {
   return Array.from({ length: n }, (_, i) => {
