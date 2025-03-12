@@ -1,4 +1,4 @@
-// 9️⃣ Ordenar un array de objetos por múltiples propiedades
+// **2️⃣ **Ordenar un array de objetos por múltiples propiedades**
 
 function sortByProperties(data) {
   return data.sort((a, b) => a.name.localeCompare(b.name) || a.age - b.age);
