@@ -1,4 +1,4 @@
-// 6️⃣ Encontrar la segunda palabra más larga en una oración
+// **2️⃣ **Encontrar la segunda palabra más larga en una oración**
 
 function secondLongestWord(str) {
   let words = str
