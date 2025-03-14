@@ -1,4 +1,4 @@
-// **3️⃣ **Contar cuántas veces aparece cada palabra en una oración**
+//**3️⃣ **Contar cuántas veces aparece cada palabra en una oración**
 
 function countWords(str) {
   let countWord = {};
@@ -12,7 +12,6 @@ function countWords(str) {
       countWord[word] = (countWord[word] || 0) + 1;
     }
   }
-
   return countWord;
 }
 
