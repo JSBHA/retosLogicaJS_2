@@ -1,4 +1,4 @@
-/* 1️⃣2️⃣ Encontrar la subcadena más larga sin repetir caracteres */
+/**2️⃣ **Encontrar la subcadena más larga sin repetir caracteres **/
 
 function SubstringWithoutRepeating(str) {
   let set = new Set();
