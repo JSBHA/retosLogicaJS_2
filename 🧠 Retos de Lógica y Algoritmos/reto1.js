@@ -1,4 +1,4 @@
-//1️⃣1️⃣ Detectar si una cadena tiene todos los caracteres únicos
+//**1️⃣ **Detectar si una cadena tiene todos los caracteres únicos**
 
 function hasUniqueChars(str) {
   let uniqueChar = new Set(str);
