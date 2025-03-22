@@ -1,4 +1,4 @@
-// 1️⃣ Calcular el factorial de un número
+// **1️⃣ **Calcular el factorial de un número utilizando el operador ternario **
 
 function factorial(n) {
   return n <= 1 ? 1 : n * factorial(n - 1);
