@@ -6,6 +6,5 @@ function replaceVowels(str, char) {
 
 console.log(replaceVowels("Hola Mundo", "*"));
 // Salida: "H*l* M*nd*"
-
 console.log(replaceVowels("Javascript es genial", "#"));
 // Salida: "J#v#scr#pt #s g#n##l"
