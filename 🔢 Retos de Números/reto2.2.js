@@ -1,4 +1,4 @@
-// 2️⃣ Verificar si un número es un cuadrado perfecto
+// **2️⃣ **Verificar si un número es un cuadrado perfecto**
 
 function isPerfectSquare(n) {
   if (n < 0) return false; // No hay cuadrados perfectos negativos
