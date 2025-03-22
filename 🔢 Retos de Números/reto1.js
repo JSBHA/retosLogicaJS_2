@@ -1,4 +1,4 @@
-// 1️⃣ Calcular el factorial de un número
+// **1️⃣ **Calcular el factorial de un número**
 
 function factorial(n) {
   if (n <= 1) {
