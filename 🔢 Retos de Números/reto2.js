@@ -1,4 +1,4 @@
-// 2️⃣ Verificar si un número es un cuadrado perfecto
+// **2️⃣ **Verificar si un número es un cuadrado perfecto**
 
 function isPerfectSquare(n) {
   return Number.isInteger(Math.sqrt(n)); //  True,
