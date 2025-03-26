@@ -1,4 +1,4 @@
-// **8️⃣ **Encontrar el elemento más frecuente en un array**
+//**8️⃣ **Encontrar el elemento más frecuente en un array**
 
     function mostFrequentElement(arr) {
     let freqMap = arr.reduce((acc, i) => {
