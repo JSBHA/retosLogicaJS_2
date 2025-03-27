@@ -1,7 +1,7 @@
 // **9️⃣ **Capitalizar la primera letra de cada palabra**
 
 function capitalizeWords(str) {
-  return str.replace(/\b\w/g, char => char.toUpperCase())
+  return str.replace(/\b\w/g, (char) => char.toUpperCase());
 }
 
 console.log(capitalizeWords("hola mundo")); // "Hola Mundo"
